@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Adhi\planet\FauxGravityAttractor.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Adhi\planet\FauxGravityAttractor.cs" Line="22" Column="23" />
+      <File FileName="Assets\Scripts\Adhi\planet\FauxGravityBody.cs" Line="12" Column="9" />
+      <File FileName="Assets\Scripts\Adhi\planet\PlayerController.cs" Line="15" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
